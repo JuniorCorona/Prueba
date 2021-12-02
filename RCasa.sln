@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RCasa", "RCasa\RCasa.vbproj", "{1D84BC6D-6B46-4532-B4B8-C6D121943714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D84BC6D-6B46-4532-B4B8-C6D121943714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D84BC6D-6B46-4532-B4B8-C6D121943714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D84BC6D-6B46-4532-B4B8-C6D121943714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D84BC6D-6B46-4532-B4B8-C6D121943714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
